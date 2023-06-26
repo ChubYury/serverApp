@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ChubYury/serverApp/issues"
   },
-  "homepage": "https://github.com/ChubYury/serverApp#readme"
+  "homepage": "https://github.com/ChubYury/serverApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
