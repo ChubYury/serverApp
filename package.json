@@ -1,0 +1,19 @@
+{
+  "name": "myfirstserver",
+  "version": "0.0.1",
+  "description": "server for vue project",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChubYury/serverApp.git"
+  },
+  "author": "ChubYury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChubYury/serverApp/issues"
+  },
+  "homepage": "https://github.com/ChubYury/serverApp#readme"
+}
