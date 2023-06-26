@@ -4,6 +4,7 @@
   "description": "server for vue project",
   "main": "server.js",
   "scripts": {
+    "dev": "node server.js",
     "test": "test"
   },
   "repository": {
